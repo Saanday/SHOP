@@ -1,0 +1,72 @@
+
+
+*{
+    align-text
+
+}
+
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:0px;
+    padding:0px;
+    background-color: #E1F4C2;
+    
+
+
+}
+
+.header{
+    text-align:left;
+    background:linear-gradient(to right,#C0D9AC, #aec699);
+    height:90px;
+    padding:19px;
+    font-size: 19px;
+    
+ 
+}
+h1{
+    font-size: 70px;
+    color: #585958;
+    font-family: 'Train One', cursive;
+
+}
+h2{
+    font-size: 80px;
+    color: #FFAC5F;
+    font-family: 'Train One', cursive;
+    
+    
+}
+nav ul li{
+    list-style-type:none;
+    display:inline-block;
+    padding:10px;
+    }
+
+ul li a{
+    color:rgb(255, 253, 253)
+
+   
+}
+ul li a:hover{
+    color:#FFAC5F
+
+}
+.menu li{
+    float:right;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+   
+}    
+.menu li a {
+    text-decoration: none;
+form{
+    padding:39px;
+    text-align: right;
+    
+    body{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin:0px;
+        padding:0px;
+    }
+    
